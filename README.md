@@ -57,3 +57,7 @@ This is a server-side application built with Node.js and MongoDB Atlas to fetch 
   -  marketCap: The market capitalization in USD.
   -  24hChange: The 24-hour price change percentage.
   -  timestamp: The timestamp when the data was fetched.
+
+ ## Outputs
+
+![1](https://github.com/user-attachments/assets/b0c76e5a-1723-45d5-bab5-b092b06a24e8)
