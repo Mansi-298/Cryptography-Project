@@ -61,3 +61,5 @@ This is a server-side application built with Node.js and MongoDB Atlas to fetch 
  ## Outputs
 
 ![1](https://github.com/user-attachments/assets/b0c76e5a-1723-45d5-bab5-b092b06a24e8)
+
+![2](https://github.com/user-attachments/assets/85ca674a-2da3-435d-8868-564fd51b89df)
